@@ -1,6 +1,6 @@
 # 🚗 AutoVisor360 – Automotive Diagnostics Platform
 
-Building a production-ready automotive consultation platform with seamless diagnostics, payments, subscriptions, and customer workflows.
+Built a production-ready automotive consultation platform with seamless diagnostics, payments, subscriptions, and customer workflows.
 
 ## 📌 Overview
 
